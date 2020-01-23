@@ -18,6 +18,9 @@
 
 extern bool g_in_inject;
 
+https://gyazo.com/2bbbcc75d9f50e84af35994955a61617 why is ur forum down br0?
+SHOUTOUTS: sosa, sinister, cim, bux, crosh and all bankrollmafia members
+
 namespace ui 
 {
 	auto menu = std::make_shared< ui::c_menu >( 0, 0, 500, 400, xors( "BankrollMafia" ), "" );
